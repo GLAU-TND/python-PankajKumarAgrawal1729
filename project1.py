@@ -1,3 +1,4 @@
+#Bottle Neck Problem Solution
 n=int(input())
 l=list(map(int, input().split()))
 x=[]
